@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.canva.com/design/DAFGA3TDL_A/l6du_ZMUamDEbze6lSjerw/view?utm_content=DAFGA3TDL_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![MasterHead](https://user-images.githubusercontent.com/101462904/178147380-340f4cbf-83f6-4679-9f94-8f1741b6980b.jpg)
 
 <h1 align="center">Hi 👋, I'm Chakrika_Anousha</h1>
 <h3 align="center">A CSE sophomore from India, currently exploring different fields in tech industry and trying to figure out where I am best suited!!!</h3>
