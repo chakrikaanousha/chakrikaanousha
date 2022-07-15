@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Chakrika_Anousha</h1>
 <h3 align="center">A CSE sophomore from India, currently exploring different fields in tech industry and trying to figure out where I am best suited!!!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://startupsmagazine.co.uk/sites/default/files/2020-04/Smart-little-girl-using-her-laptop-1.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/101462904/179210180-42be21cd-479e-4aef-af97-57443889d702.jpg">
 
 - 🔭 I’m currently working on **Java OOP**
 
