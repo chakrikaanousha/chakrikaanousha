@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **pinisetti.chakrika@gmail.com**
+
 
 - ⚡ Fun fact **I am Funny XD**
 
