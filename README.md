@@ -34,3 +34,5 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=chakrikaanousha&&show_icons=true&theme=radical" alt="readme stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakrikaanousha&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chakrikaanousha&theme=blue-green)
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="chakrikaanousha's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=chakrikaanousha&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
