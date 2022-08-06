@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python**
 
-- ⚡ Fun fact **discovered a new hobby during covid lockdown: listening news**
+- ⚡ Fun fact **discovered a new hobby during covid lockdown: listening news 😂 **
 
 
 <h3 align="left">Connect with me:</h3>
