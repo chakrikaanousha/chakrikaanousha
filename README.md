@@ -21,8 +21,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://medium.com/@anousha.21bce7250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anousha.21bce7250" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anousha_1122" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/anousha_1122" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/anousha_21bce721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anousha_21bce721" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/chakrika_anousha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/chakrika_anousha/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anousha21bce7250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/anousha21bce7250/" height="30" width="40" /></a>
+</p>
+
 <a href="https://instagram.com/oh_yeah_thats_me_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oh_yeah_thats_me_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anousha21bce7250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anousha21bce7250" height="30" width="40" /></a>
 <a href="https://discord.gg/Anousha_kricks#5551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anousha_kricks#5551" height="30" width="40" /></a>
 </p>
 
